@@ -4,7 +4,7 @@ import "./App.css"
 function ProfilePhoto() {
   return (
     <div>
-      <img src={myImage} alt="My image" className="image" />
+      <img src={myImage} alt="" className="image" />
     </div>
       
   );
